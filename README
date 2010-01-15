@@ -1,0 +1,5 @@
+1. Include the JS Files
+2. Create a view using Drupal Views
+3. Initialize .infinitescroll() with 'pages: {numberOfPages}' (number of pages in the view, use javascript to get that number.)
+
+Check the wiki for the Views view setting
